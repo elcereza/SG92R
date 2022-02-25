@@ -3,7 +3,6 @@
 Servo myservo;
 
 void setup() {
-  pinMode(A1, INPUT);
   myservo.attach(9);  // attaches the servo on pin 9 to the servo object
 }
 
