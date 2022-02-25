@@ -3,7 +3,7 @@
 Servo myservo;
 
 void setup() {
-  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+  myservo.attach(9);
 }
 
 void loop() {
